@@ -1,0 +1,251 @@
+Date,Region,Salesperson,Product,Category,Units Sold,Unit Price,Total Sales
+2023-07-23 0:00:00,East,SpongeBob,Gizmo,Home Goods,19,66.08,1255.52
+2023-11-05 0:00:00,East,Scooby,Doodad,Outdoor,19,77.71,1476.49
+2023-06-04 0:00:00,North,Patrick,Doodad,Toys,19,11.76,223.44
+2023-04-30 0:00:00,East,Patrick,Widget,Electronics,18,77.79,1400.22
+2023-03-12 0:00:00,East,Jerry,Thingamajig,Toys,20,48.55,971
+2023-10-22 0:00:00,West,Patrick,Widget,Home Goods,16,87.16,1394.56
+2023-08-06 0:00:00,East,Bart,Gizmo,Home Goods,11,66.02,726.22
+2023-07-30 0:00:00,North,Velma,Widget,Toys,17,62.58,1063.86
+2023-06-25 0:00:00,West,Velma,Doodad,Outdoor,18,55.28,995.04
+2023-04-16 0:00:00,West,Velma,Widget,Outdoor,9,63.17,568.53
+2023-07-09 0:00:00,North,Donald,Widget,Home Goods,1,74.66,74.66
+2023-09-17 0:00:00,South,Donald,Gizmo,Toys,13,62.3,809.9
+2023-12-31 0:00:00,North,Donald,Widget,Home Goods,14,25.24,353.36
+2023-01-22 0:00:00,West,Goofy,Widget,Toys,14,57.26,801.64
+2023-12-03 0:00:00,West,Patrick,Gizmo,Toys,9,97.86,880.74
+2023-09-17 0:00:00,South,Goofy,Widget,Toys,9,95.66,860.94
+2023-09-17 0:00:00,North,Tom,Thingamajig,Electronics,12,49.21,590.52
+2023-03-26 0:00:00,West,Jerry,Widget,Outdoor,19,18.4,349.6
+2023-03-19 0:00:00,West,SpongeBob,Thingamajig,Toys,10,72.92,729.2
+2023-10-08 0:00:00,North,Tom,Doodad,Toys,17,84.36,1434.12
+2023-10-01 0:00:00,West,Velma,Doodad,Home Goods,15,19.9,298.5
+2023-10-01 0:00:00,North,Donald,Doodad,Toys,20,98.38,1967.6
+2023-11-05 0:00:00,South,Jerry,Widget,Toys,2,63.33,126.66
+2023-04-23 0:00:00,West,Goofy,Widget,Home Goods,12,45.58,546.96
+2023-10-15 0:00:00,North,Velma,Thingamajig,Electronics,19,89.78,1705.82
+2023-09-03 0:00:00,South,Goofy,Widget,Electronics,19,67.48,1282.12
+2023-11-05 0:00:00,South,Goofy,Widget,Electronics,15,52.46,786.9
+2023-08-20 0:00:00,East,Velma,Thingamajig,Toys,13,43.89,570.57
+2023-08-06 0:00:00,South,Patrick,Gizmo,Outdoor,14,76.32,1068.48
+2023-12-10 0:00:00,East,Jerry,Doodad,Electronics,14,70.48,986.72
+2023-12-24 0:00:00,South,Donald,Thingamajig,Home Goods,8,63.49,507.92
+2023-10-15 0:00:00,North,Tom,Thingamajig,Toys,2,86.86,173.72
+2023-07-23 0:00:00,West,Goofy,Thingamajig,Home Goods,12,61.42,737.04
+2023-07-02 0:00:00,East,Jerry,Gizmo,Home Goods,8,76.91,615.28
+2023-11-12 0:00:00,North,Tom,Gizmo,Home Goods,1,86.15,86.15
+2023-07-30 0:00:00,West,Velma,Gizmo,Outdoor,20,16.07,321.4
+2023-08-27 0:00:00,East,Goofy,Doodad,Toys,6,54.51,327.06
+2023-04-30 0:00:00,North,Scooby,Gizmo,Electronics,3,55.65,166.95
+2023-02-19 0:00:00,South,Mickey,Doodad,Home Goods,7,32.04,224.28
+2023-09-03 0:00:00,East,Jerry,Gizmo,Electronics,16,94.25,1508
+2023-07-30 0:00:00,West,Patrick,Doodad,Electronics,11,23.83,262.13
+2023-03-05 0:00:00,North,Bart,Widget,Outdoor,20,86.21,1724.2
+2023-04-02 0:00:00,South,Donald,Thingamajig,Outdoor,15,82.29,1234.35
+2023-03-26 0:00:00,East,Donald,Thingamajig,Electronics,9,35.81,322.29
+2023-08-13 0:00:00,North,Tom,Thingamajig,Home Goods,17,13.58,230.86
+2023-07-16 0:00:00,West,Velma,Widget,Electronics,9,77.54,697.86
+2023-04-30 0:00:00,West,Donald,Thingamajig,Toys,9,89.12,802.08
+2023-02-12 0:00:00,South,Bart,Gizmo,Outdoor,15,80.8,1212
+2023-04-09 0:00:00,North,Jerry,Widget,Outdoor,4,99.25,397
+2023-03-26 0:00:00,North,Scooby,Thingamajig,Electronics,4,67.96,271.84
+2023-04-23 0:00:00,East,Tom,Doodad,Home Goods,18,93.47,1682.46
+2023-12-31 0:00:00,South,Jerry,Gizmo,Outdoor,19,34.7,659.3
+2023-09-10 0:00:00,East,Patrick,Gizmo,Toys,18,32.79,590.22
+2023-01-29 0:00:00,West,Goofy,Doodad,Toys,20,75.64,1512.8
+2023-07-09 0:00:00,North,Goofy,Gizmo,Home Goods,20,88.61,1772.2
+2023-03-26 0:00:00,South,Mickey,Gizmo,Electronics,19,76.5,1453.5
+2023-03-19 0:00:00,East,Velma,Gizmo,Home Goods,19,30.21,573.99
+2023-05-21 0:00:00,West,Tom,Gizmo,Outdoor,9,99.52,895.68
+2023-06-04 0:00:00,North,Scooby,Widget,Electronics,10,11.47,114.7
+2023-05-28 0:00:00,West,Donald,Doodad,Electronics,2,62.2,124.4
+2023-10-01 0:00:00,North,SpongeBob,Gizmo,Electronics,4,71.76,287.04
+2023-08-06 0:00:00,North,Mickey,Gizmo,Toys,6,26.68,160.08
+2023-06-11 0:00:00,South,Tom,Gizmo,Electronics,17,10.36,176.12
+2023-06-11 0:00:00,West,Mickey,Thingamajig,Electronics,11,60.29,663.19
+2023-01-29 0:00:00,West,Goofy,Gizmo,Home Goods,12,87.41,1048.92
+2023-11-05 0:00:00,West,Goofy,Widget,Home Goods,18,58.79,1058.22
+2023-04-30 0:00:00,East,Goofy,Widget,Electronics,11,10.33,113.63
+2023-07-09 0:00:00,East,Mickey,Gizmo,Home Goods,16,71.96,1151.36
+2023-10-08 0:00:00,West,Donald,Widget,Outdoor,15,76.24,1143.6
+2023-01-15 0:00:00,South,Donald,Widget,Toys,7,49.88,349.16
+2023-01-08 0:00:00,East,Mickey,Thingamajig,Outdoor,11,72.74,800.14
+2023-02-19 0:00:00,East,Scooby,Gizmo,Electronics,12,97.68,1172.16
+2023-12-10 0:00:00,South,Mickey,Doodad,Electronics,20,88.46,1769.2
+2023-06-18 0:00:00,West,Goofy,Doodad,Home Goods,13,79.5,1033.5
+2023-10-22 0:00:00,East,SpongeBob,Thingamajig,Home Goods,18,94.74,1705.32
+2023-10-22 0:00:00,West,Jerry,Thingamajig,Outdoor,12,88.16,1057.92
+2023-01-01 0:00:00,West,Tom,Doodad,Electronics,18,99.32,1787.76
+2023-08-13 0:00:00,East,Tom,Doodad,Outdoor,6,21.15,126.9
+2023-01-01 0:00:00,North,Scooby,Doodad,Electronics,11,50.76,558.36
+2023-12-17 0:00:00,West,Jerry,Gizmo,Electronics,20,28.53,570.6
+2023-01-08 0:00:00,East,Bart,Widget,Home Goods,1,97.74,97.74
+2023-08-06 0:00:00,South,Donald,Thingamajig,Electronics,12,59.59,715.08
+2023-11-26 0:00:00,West,Goofy,Widget,Toys,9,13.02,117.18
+2023-11-05 0:00:00,South,Mickey,Gizmo,Electronics,18,95.3,1715.4
+2023-12-17 0:00:00,North,Bart,Widget,Outdoor,19,57.08,1084.52
+2023-12-24 0:00:00,South,Donald,Widget,Toys,15,85.72,1285.8
+2023-10-01 0:00:00,West,Tom,Doodad,Toys,8,10.79,86.32
+2023-07-09 0:00:00,South,Bart,Thingamajig,Toys,4,61.11,244.44
+2023-04-30 0:00:00,West,Velma,Widget,Toys,5,62.27,311.35
+2023-10-15 0:00:00,West,Jerry,Gizmo,Electronics,18,69.5,1251
+2023-06-18 0:00:00,North,Donald,Gizmo,Electronics,11,14.11,155.21
+2023-07-02 0:00:00,North,Donald,Widget,Toys,12,55.71,668.52
+2023-03-26 0:00:00,North,Velma,Thingamajig,Outdoor,12,14.18,170.16
+2023-04-30 0:00:00,West,Tom,Widget,Electronics,4,15.29,61.16
+2023-01-15 0:00:00,East,Mickey,Gizmo,Outdoor,1,34.46,34.46
+2023-11-12 0:00:00,East,Goofy,Doodad,Electronics,9,32.42,291.78
+2023-09-24 0:00:00,South,Jerry,Gizmo,Electronics,11,60.86,669.46
+2023-04-09 0:00:00,North,Jerry,Widget,Outdoor,8,32.31,258.48
+2023-06-18 0:00:00,South,SpongeBob,Doodad,Outdoor,3,20,60
+2023-10-15 0:00:00,South,Donald,Thingamajig,Home Goods,15,63.46,951.9
+2023-04-30 0:00:00,North,Scooby,Doodad,Electronics,19,98.71,1875.49
+2023-05-28 0:00:00,West,Scooby,Thingamajig,Toys,5,20.31,101.55
+2023-04-23 0:00:00,North,Goofy,Widget,Toys,9,30.47,274.23
+2023-03-05 0:00:00,South,Scooby,Doodad,Outdoor,19,55.06,1046.14
+2023-06-18 0:00:00,North,Mickey,Gizmo,Outdoor,18,15.02,270.36
+2023-09-17 0:00:00,East,Donald,Thingamajig,Electronics,9,11.53,103.77
+2023-04-30 0:00:00,West,SpongeBob,Thingamajig,Electronics,8,70.68,565.44
+2023-07-23 0:00:00,East,Jerry,Thingamajig,Home Goods,9,97.84,880.56
+2023-01-01 0:00:00,East,Scooby,Gizmo,Outdoor,13,16.59,215.67
+2023-09-17 0:00:00,West,Scooby,Gizmo,Toys,2,94.61,189.22
+2023-03-19 0:00:00,West,Patrick,Thingamajig,Outdoor,3,44.25,132.75
+2023-02-19 0:00:00,South,Donald,Doodad,Electronics,15,79.21,1188.15
+2023-12-17 0:00:00,West,Patrick,Widget,Home Goods,3,29.55,88.65
+2023-01-01 0:00:00,North,Patrick,Gizmo,Home Goods,9,10.75,96.75
+2023-05-21 0:00:00,East,Goofy,Thingamajig,Home Goods,10,80.66,806.6
+2023-03-12 0:00:00,South,Bart,Doodad,Electronics,5,61.42,307.1
+2023-03-26 0:00:00,South,Bart,Doodad,Electronics,3,11.24,33.72
+2023-06-18 0:00:00,East,Jerry,Gizmo,Home Goods,7,30.11,210.77
+2023-10-22 0:00:00,East,Goofy,Doodad,Home Goods,16,48.51,776.16
+2023-02-12 0:00:00,West,Bart,Gizmo,Electronics,17,51.04,867.68
+2023-02-26 0:00:00,South,Donald,Thingamajig,Outdoor,19,77.83,1478.77
+2023-11-05 0:00:00,West,Goofy,Doodad,Outdoor,4,65.34,261.36
+2023-11-26 0:00:00,North,Scooby,Gizmo,Electronics,15,52.68,790.2
+2023-04-09 0:00:00,North,Velma,Doodad,Toys,20,29.73,594.6
+2023-08-20 0:00:00,West,Donald,Widget,Electronics,10,57.82,578.2
+2023-05-14 0:00:00,East,Goofy,Thingamajig,Electronics,19,11.2,212.8
+2023-08-06 0:00:00,North,Donald,Gizmo,Electronics,15,17.04,255.6
+2023-09-03 0:00:00,East,Patrick,Gizmo,Outdoor,12,56.47,677.64
+2023-07-23 0:00:00,East,Velma,Thingamajig,Outdoor,16,28.02,448.32
+2023-04-02 0:00:00,East,Goofy,Doodad,Outdoor,20,75.5,1510
+2023-10-22 0:00:00,West,Donald,Widget,Toys,17,89.02,1513.34
+2023-05-07 0:00:00,South,Velma,Widget,Toys,8,26.76,214.08
+2023-04-16 0:00:00,East,Scooby,Gizmo,Toys,15,51.18,767.7
+2023-02-12 0:00:00,East,Patrick,Gizmo,Electronics,10,81.55,815.5
+2023-02-19 0:00:00,West,Jerry,Doodad,Outdoor,14,53.51,749.14
+2023-12-24 0:00:00,South,Bart,Gizmo,Toys,6,88.6,531.6
+2023-02-19 0:00:00,East,Tom,Doodad,Home Goods,3,92.44,277.32
+2023-04-30 0:00:00,North,Scooby,Widget,Home Goods,17,61.48,1045.16
+2023-06-18 0:00:00,West,Patrick,Gizmo,Toys,7,96.97,678.79
+2023-01-15 0:00:00,West,Scooby,Widget,Electronics,15,27.61,414.15
+2023-01-08 0:00:00,South,Jerry,Gizmo,Electronics,2,72.97,145.94
+2023-07-02 0:00:00,West,Jerry,Widget,Toys,14,57.53,805.42
+2023-03-26 0:00:00,North,SpongeBob,Doodad,Toys,14,16.87,236.18
+2023-01-22 0:00:00,West,Patrick,Doodad,Home Goods,16,17.67,282.72
+2023-12-31 0:00:00,South,Donald,Widget,Home Goods,17,35.85,609.45
+2023-03-05 0:00:00,East,Velma,Gizmo,Toys,2,49.79,99.58
+2023-06-04 0:00:00,North,Jerry,Doodad,Home Goods,15,45.89,688.35
+2023-06-18 0:00:00,North,Mickey,Thingamajig,Toys,10,93.06,930.6
+2023-11-05 0:00:00,South,Tom,Widget,Toys,20,74.8,1496
+2023-11-12 0:00:00,West,Mickey,Gizmo,Toys,13,10.61,137.93
+2023-08-06 0:00:00,East,SpongeBob,Gizmo,Electronics,4,52.45,209.8
+2023-09-17 0:00:00,South,Velma,Doodad,Home Goods,17,90.19,1533.23
+2023-05-14 0:00:00,East,Tom,Gizmo,Outdoor,1,61.72,61.72
+2023-05-14 0:00:00,West,Goofy,Gizmo,Home Goods,3,70.93,212.79
+2023-12-17 0:00:00,South,SpongeBob,Thingamajig,Home Goods,9,26.63,239.67
+2023-10-29 0:00:00,West,SpongeBob,Thingamajig,Home Goods,9,50.89,458.01
+2023-01-08 0:00:00,South,Jerry,Gizmo,Outdoor,5,56.06,280.3
+2023-04-30 0:00:00,North,Patrick,Widget,Toys,10,55.32,553.2
+2023-01-01 0:00:00,West,Velma,Gizmo,Toys,16,63.29,1012.64
+2023-07-30 0:00:00,East,Scooby,Doodad,Home Goods,13,50.52,656.76
+2023-06-11 0:00:00,North,Mickey,Gizmo,Electronics,11,68.54,753.94
+2023-10-29 0:00:00,South,Velma,Widget,Home Goods,11,39.24,431.64
+2023-10-22 0:00:00,East,Velma,Gizmo,Toys,7,34.8,243.6
+2023-01-08 0:00:00,South,Tom,Thingamajig,Outdoor,4,81.28,325.12
+2023-06-04 0:00:00,South,Goofy,Doodad,Outdoor,7,85.75,600.25
+2023-07-16 0:00:00,West,Bart,Doodad,Toys,4,33.11,132.44
+2023-06-11 0:00:00,East,SpongeBob,Thingamajig,Outdoor,16,36.3,580.8
+2023-06-25 0:00:00,North,Bart,Doodad,Toys,10,72.06,720.6
+2023-11-19 0:00:00,South,Velma,Widget,Outdoor,10,73.84,738.4
+2023-01-08 0:00:00,East,SpongeBob,Doodad,Electronics,15,60.08,901.2
+2023-03-19 0:00:00,North,Goofy,Doodad,Home Goods,12,46.36,556.32
+2023-03-19 0:00:00,West,Bart,Thingamajig,Home Goods,13,74.66,970.58
+2023-05-21 0:00:00,East,Tom,Doodad,Electronics,4,55.58,222.32
+2023-04-02 0:00:00,East,Jerry,Gizmo,Home Goods,6,30.83,184.98
+2023-01-22 0:00:00,West,Mickey,Doodad,Home Goods,4,83.22,332.88
+2023-05-07 0:00:00,East,Tom,Widget,Toys,6,79.63,477.78
+2023-06-11 0:00:00,North,Patrick,Doodad,Home Goods,17,36.75,624.75
+2023-07-16 0:00:00,South,SpongeBob,Thingamajig,Toys,13,57.51,747.63
+2023-12-24 0:00:00,West,Patrick,Thingamajig,Toys,15,62.81,942.15
+2023-03-26 0:00:00,South,Velma,Thingamajig,Home Goods,1,23.6,23.6
+2023-03-12 0:00:00,North,Scooby,Widget,Home Goods,1,84.67,84.67
+2023-12-10 0:00:00,North,Donald,Widget,Electronics,11,99.05,1089.55
+2023-09-17 0:00:00,North,Scooby,Widget,Home Goods,9,87.02,783.18
+2023-01-22 0:00:00,North,Patrick,Thingamajig,Outdoor,1,41.27,41.27
+2023-11-26 0:00:00,West,Bart,Gizmo,Electronics,14,36.49,510.86
+2023-03-12 0:00:00,North,Bart,Thingamajig,Home Goods,5,42.14,210.7
+2023-10-29 0:00:00,North,Donald,Gizmo,Electronics,14,20.44,286.16
+2023-12-10 0:00:00,North,Goofy,Widget,Toys,20,15.11,302.2
+2023-05-07 0:00:00,South,Donald,Gizmo,Toys,8,86.08,688.64
+2023-05-28 0:00:00,South,Jerry,Doodad,Toys,7,37.8,264.6
+2023-09-17 0:00:00,North,SpongeBob,Thingamajig,Outdoor,10,19.74,197.4
+2023-01-15 0:00:00,West,Scooby,Thingamajig,Outdoor,12,81.23,974.76
+2023-11-12 0:00:00,North,Bart,Widget,Toys,13,55.06,715.78
+2023-06-25 0:00:00,East,Scooby,Doodad,Toys,17,58.76,998.92
+2023-07-02 0:00:00,North,Patrick,Widget,Outdoor,7,54.35,380.45
+2023-10-01 0:00:00,North,Tom,Doodad,Home Goods,3,48.82,146.46
+2023-12-17 0:00:00,South,Mickey,Widget,Electronics,14,72.45,1014.3
+2023-11-26 0:00:00,North,SpongeBob,Widget,Toys,17,93.58,1590.86
+2023-01-08 0:00:00,North,Patrick,Gizmo,Outdoor,20,95.24,1904.8
+2023-06-18 0:00:00,West,Tom,Thingamajig,Outdoor,15,32.81,492.15
+2023-12-31 0:00:00,South,Mickey,Doodad,Toys,2,22.19,44.38
+2023-04-16 0:00:00,East,Donald,Widget,Toys,12,38.87,466.44
+2023-09-03 0:00:00,South,Donald,Gizmo,Electronics,7,58.25,407.75
+2023-10-29 0:00:00,West,Goofy,Thingamajig,Home Goods,9,14.81,133.29
+2023-02-26 0:00:00,South,Velma,Gizmo,Toys,3,40.73,122.19
+2023-04-23 0:00:00,West,Jerry,Gizmo,Toys,5,79.92,399.6
+2023-08-20 0:00:00,East,Jerry,Thingamajig,Home Goods,1,94.09,94.09
+2023-06-11 0:00:00,West,Velma,Widget,Toys,13,50.89,661.57
+2023-10-15 0:00:00,East,Patrick,Gizmo,Outdoor,17,12.74,216.58
+2023-12-31 0:00:00,North,Jerry,Widget,Toys,10,53.63,536.3
+2023-11-12 0:00:00,South,Jerry,Doodad,Electronics,20,58.54,1170.8
+2023-06-11 0:00:00,North,Scooby,Gizmo,Outdoor,15,14.31,214.65
+2023-09-10 0:00:00,East,Goofy,Doodad,Electronics,19,64.88,1232.72
+2023-08-06 0:00:00,North,Donald,Thingamajig,Home Goods,19,74.91,1423.29
+2023-10-22 0:00:00,South,Patrick,Doodad,Outdoor,7,58,406
+2023-04-23 0:00:00,East,Scooby,Thingamajig,Home Goods,6,85.35,512.1
+2023-02-26 0:00:00,East,Tom,Widget,Outdoor,19,23.71,450.49
+2023-10-15 0:00:00,West,Jerry,Doodad,Outdoor,16,43.2,691.2
+2023-12-24 0:00:00,South,Patrick,Widget,Electronics,1,10.52,10.52
+2023-05-28 0:00:00,East,Goofy,Doodad,Toys,8,85.4,683.2
+2023-07-23 0:00:00,South,Donald,Doodad,Outdoor,18,52.12,938.16
+2023-07-30 0:00:00,North,Donald,Gizmo,Home Goods,2,67.97,135.94
+2023-05-07 0:00:00,West,Jerry,Gizmo,Home Goods,10,30.95,309.5
+2023-02-26 0:00:00,North,Donald,Widget,Outdoor,19,97.02,1843.38
+2023-01-01 0:00:00,West,Patrick,Doodad,Electronics,19,98.66,1874.54
+2023-07-30 0:00:00,East,Velma,Widget,Home Goods,1,22.48,22.48
+2023-12-31 0:00:00,East,Scooby,Doodad,Home Goods,17,94.41,1604.97
+2023-02-05 0:00:00,South,Scooby,Thingamajig,Toys,16,28.84,461.44
+2023-09-17 0:00:00,East,SpongeBob,Widget,Home Goods,8,46.08,368.64
+2023-01-22 0:00:00,South,Scooby,Doodad,Outdoor,1,88.06,88.06
+2023-09-10 0:00:00,West,Donald,Widget,Electronics,9,65.83,592.47
+2023-12-10 0:00:00,South,Bart,Gizmo,Outdoor,10,89.51,895.1
+2023-09-17 0:00:00,East,Mickey,Widget,Toys,3,48.65,145.95
+2023-10-01 0:00:00,West,Goofy,Gizmo,Electronics,1,80.94,80.94
+2023-11-05 0:00:00,East,Jerry,Widget,Home Goods,18,14.38,258.84
+2023-06-04 0:00:00,East,Scooby,Widget,Electronics,11,14.93,164.23
+2023-11-12 0:00:00,West,Bart,Thingamajig,Electronics,7,25.87,181.09
+2023-02-05 0:00:00,North,Scooby,Doodad,Electronics,13,58.74,763.62
+2023-03-05 0:00:00,West,Jerry,Thingamajig,Outdoor,11,43.95,483.45
+2023-02-12 0:00:00,East,Tom,Thingamajig,Home Goods,17,35.68,606.56
+2023-04-02 0:00:00,South,Patrick,Doodad,Electronics,14,15.85,221.9
+2023-02-26 0:00:00,South,SpongeBob,Doodad,Toys,3,17.15,51.45
+2023-02-26 0:00:00,East,Jerry,Widget,Home Goods,6,81.32,487.92
+2023-11-26 0:00:00,East,Jerry,Doodad,Home Goods,4,30.49,121.96
+2023-10-29 0:00:00,South,Scooby,Widget,Outdoor,9,15.25,137.25
+2023-06-04 0:00:00,East,Donald,Widget,Home Goods,18,69.48,1250.64
+2023-06-11 0:00:00,North,Scooby,Gizmo,Home Goods,10,56.27,562.7
+2023-09-10 0:00:00,East,Mickey,Doodad,Outdoor,7,49.77,348.39
+2023-12-10 0:00:00,North,Bart,Widget,Home Goods,10,78.77,787.7
+2023-08-06 0:00:00,East,Velma,Thingamajig,Outdoor,20,87.51,1750.2
