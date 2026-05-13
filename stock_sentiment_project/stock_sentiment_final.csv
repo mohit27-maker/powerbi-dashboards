@@ -1,0 +1,50 @@
+Ticker,Date,Headline,Sentiment,Confidence,Close,Volume,Sentiment_Score
+AAPL,2026-05-09,Paul Tudor Jones Warns Trump-Era Market Boom Could End in a 35% Crash. Here’s Why He’s Still Buying Stocks,neutral,0.7,293.32,52631200,0
+AAPL,2026-05-09,Analysts turn heads with AMD stock forecast after massive rally,negative,0.61,293.32,52631200,-1
+AAPL,2026-05-09,25 Health Brand Campaigns That Redefined Digital Marketing,neutral,0.87,293.32,52631200,0
+AAPL,2026-05-09,Apple Looking to Add MacBook Neo To Deal with a Potential Increase in Price,positive,0.9,293.32,52631200,1
+AAPL,2026-05-09,Samsung Achieves $1 Trillion Valuation,positive,0.5,293.32,52631200,1
+AAPL,2026-05-09,"Intel soars on Apple chip deal, lifting S&P 500 and NASDAQ to record highs",positive,0.89,293.32,52631200,1
+AAPL,2026-05-09,PipeDream on the Acorn Archimedes,neutral,0.85,293.32,52631200,0
+AAPL,2026-05-09,Intel CEO who won over Trump and Musk now needs a breakthrough,neutral,0.91,293.32,52631200,0
+AAPL,2026-05-09,(Video) Arne Slot will have loved what Rio Ngumoha did just before Ryan Gravenberch goal,neutral,0.82,293.32,52631200,0
+AAPL,2026-05-09,PayPal Faces a Brutal Reality: 3 Real Problems Hurting the Stock Now,negative,0.95,293.32,52631200,-1
+GOOGL,2026-05-09,Is Cathie Wood Still Hopeful About Tesla (TSLA)?,neutral,0.85,400.8,21432500,0
+GOOGL,2026-05-09,This is Why Spire Inc. (SR) is a High Growth Utility Stock to Buy,neutral,0.79,400.8,21432500,0
+GOOGL,2026-05-09,PPL Corporation (PPL) A High Growth Utility Stock to Buy on Nuclear Energy Push,neutral,0.8,400.8,21432500,0
+GOOGL,2026-05-09,Micron stock sends a strong signal amid chip shortage,positive,0.92,400.8,21432500,1
+GOOGL,2026-05-09,Jim Cramer on Meta: “I Think It’s Time to Stop Worrying and Start Buying”,neutral,0.54,400.8,21432500,0
+GOOGL,2026-05-09,Jim Cramer on Goldman Sachs: “I Think That It’s Going Higher”,positive,0.86,400.8,21432500,1
+GOOGL,2026-05-09,Jim Cramer on Salesforce: “It’s Tough Because the Market Hates Software”,negative,0.6,400.8,21432500,-1
+GOOGL,2026-05-09,Jim Cramer Says “You Can’t Really Teach an Old Dog New Tricks Unless It’s a Datadog”,neutral,0.9,400.8,21432500,0
+GOOGL,2026-05-09,CEO Sundar Pichai Says Google Is Having a ‘Terrific Start’ to the Year. Mag-7 Investors Agree as GOOGL Stock Leads the Way.,positive,0.92,400.8,21432500,1
+GOOGL,2026-05-09,PipeDream on the Acorn Archimedes,neutral,0.85,400.8,21432500,0
+MSFT,2026-05-09,Paul Tudor Jones Warns Trump-Era Market Boom Could End in a 35% Crash. Here’s Why He’s Still Buying Stocks,neutral,0.7,415.12,33304300,0
+MSFT,2026-05-09,Microsoft Deal Strengthens Black Hills Corporation (BKH) Prospects as a High Growth Utility Stock to Buy,positive,0.95,415.12,33304300,1
+MSFT,2026-05-09,Micron stock sends a strong signal amid chip shortage,positive,0.92,415.12,33304300,1
+MSFT,2026-05-09,Goldman Sachs spots a troubling big tech trend,negative,0.96,415.12,33304300,-1
+MSFT,2026-05-09,Jim Cramer on Salesforce: “It’s Tough Because the Market Hates Software”,negative,0.6,415.12,33304300,-1
+MSFT,2026-05-09,PipeDream on the Acorn Archimedes,neutral,0.85,415.12,33304300,0
+MSFT,2026-05-09,"Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",positive,0.86,415.12,33304300,1
+MSFT,2026-05-09,How to Unlock NotebookLM’s Powerful New AI Automations,neutral,0.85,415.12,33304300,0
+MSFT,2026-05-09,This $2.9 billion fund has paid distributions for 26 straight years,neutral,0.78,415.12,33304300,0
+MSFT,2026-05-09,Earnings Estimate Revisions Are Very Optimistic,neutral,0.89,415.12,33304300,0
+AMZN,2026-05-09,Micron stock sends a strong signal amid chip shortage,positive,0.92,272.68,34662900,1
+AMZN,2026-05-09,Goldman Sachs spots a troubling big tech trend,negative,0.96,272.68,34662900,-1
+AMZN,2026-05-09,Jim Cramer on Meta: “I Think It’s Time to Stop Worrying and Start Buying”,neutral,0.54,272.68,34662900,0
+AMZN,2026-05-09,25 Health Brand Campaigns That Redefined Digital Marketing,neutral,0.87,272.68,34662900,0
+AMZN,2026-05-09,"Amazon boosts CAPEX to $44.2B, up from $25B last year",positive,0.95,272.68,34662900,1
+AMZN,2026-05-09,Why 2026 Is the Year Handheld Gaming PCs Got Real,neutral,0.86,272.68,34662900,0
+AMZN,2026-05-09,You do not want to miss this $6 lotion during the Bath and Body Work Sale,neutral,0.92,272.68,34662900,0
+AMZN,2026-05-09,"Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",positive,0.86,272.68,34662900,1
+AMZN,2026-05-09,Earnings Estimate Revisions Are Very Optimistic,neutral,0.89,272.68,34662900,0
+TSLA,2026-05-09,Is Cathie Wood Still Hopeful About Tesla (TSLA)?,neutral,0.85,428.35,64880800,0
+TSLA,2026-05-09,BofA revises Harley-Davidson stock price after latest announcement,neutral,0.86,428.35,64880800,0
+TSLA,2026-05-09,Intel CEO who won over Trump and Musk now needs a breakthrough,neutral,0.91,428.35,64880800,0
+TSLA,2026-05-09,Is Tesla (TSLA) the Best Quality Stock to Buy and Hold for the Next 5 Years?,neutral,0.78,428.35,64880800,0
+TSLA,2026-05-09,BNB Chain’s China-related tokenized stocks surge to $9.3M in value,positive,0.93,428.35,64880800,1
+TSLA,2026-05-09,Own goal for Irish company as crypto pivot follows bets on third-rate football clubs,neutral,0.92,428.35,64880800,0
+TSLA,2026-05-09,Beyond Bitcoin: Why tokenized assets are gaining serious investor attention,neutral,0.86,428.35,64880800,0
+TSLA,2026-05-09,S&P 500 hits $2.6T in call options as AI mania fuels massive gamma squeeze,negative,0.92,428.35,64880800,-1
+TSLA,2026-05-08,ELEKTROS Inc. Positions Investors at the Ground Floor of the Global Lithium and EV Infrastructure Boom as U.S. Stock Markets Reach Historic Highs,positive,0.66,428.35,64880800,1
+TSLA,2026-05-08,Apple inks ‘preliminary chip-making agreement’ with Intel: A major step in American Semiconductor Revival,positive,0.82,428.35,64880800,1
