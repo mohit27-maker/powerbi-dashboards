@@ -148,7 +148,7 @@ Cell 7 → Export CSVs
 
 **Your Name**
 - LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohit-sengar-16096a2bb/)
-- GitHub: [github.com/yourusername](https://github.com)
+- GitHub: [github.com/yourusername](https://github.com/mohit27-maker)
 
 ---
 
