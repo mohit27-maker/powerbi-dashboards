@@ -4,14 +4,6 @@ An end-to-end AI-powered data analytics project that fetches live stock prices a
 
 ---
 
-## 🚀 Live Demo
-
-![Dashboard Preview](dashboard_preview.png)
-
-> Dashboard shows sentiment scores, AI confidence levels, latest stock prices, and headline-level sentiment for 5 major stocks.
-
----
-
 ## 🎯 Project Objective
 
 > **"Does positive or negative news about a stock correlate with its price movement?"**
@@ -155,7 +147,7 @@ Cell 7 → Export CSVs
 ## 👤 Author
 
 **Your Name**
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohit-sengar-16096a2bb/)
 - GitHub: [github.com/yourusername](https://github.com)
 
 ---
